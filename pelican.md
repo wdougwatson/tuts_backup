@@ -31,8 +31,10 @@ Begin every post.md with the following meta-data.
 
     ## This is an Eye Catching Heading
     This is the body of my post.
-## Step 3. Test Your Local site
 
+
+## Step 3. Test Your Local Site
+    make devserver
     make html
     make serve
 
